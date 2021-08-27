@@ -1,5 +1,9 @@
 ## Welcome to My Web Development Journey!
 
+
+*Hello! My name is Katy! Welcome to my Web Developer journey! This blog will be following me as I make my way through the Awesome Inc Web Development Bootcamp! The first week is a lot of reading and prework to prepare.*
+
+
 :sparkles:This is my first blog post!:sparkles:
 <br/>
 
