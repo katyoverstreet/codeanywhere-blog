@@ -1,5 +1,5 @@
 ## Welcome to My Web Development Journey!
-
+![GitHub Logo](/img/abstractfunction.jpeg)
 :sparkles:This is my first blog post!:sparkles:
 
 ### My First Week
