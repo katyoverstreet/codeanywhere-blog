@@ -3,6 +3,8 @@
 
 *Hello! My name is Katy! Welcome to my Web Developer journey! This blog will be following me as I make my way through the Awesome Inc Web Development Bootcamp! The first week is a lot of reading and prework to prepare.*
 
+*Let me tell you a bit about myself. I am 20 years old, my favourite food is probably.........*
+
 
 :sparkles:This is my first blog post!:sparkles:
 <br/>
