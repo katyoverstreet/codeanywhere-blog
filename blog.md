@@ -4,12 +4,12 @@
 ### About Me
 *Hello! My name is Katy! Welcome to my Web Developer journey! This blog will be following me as I make my way through the Awesome Inc Web Development Bootcamp! The first week is a lot of reading and prework to prepare.*
 
-*Let me tell you a bit about myself. I am 20 years old, I don't have a favourite food, but if I had to choose, I would say steak. I am allergic to nuts of any kind (except for peanuts, as they are truly a legume). Before Bootcamp I worked as a Pharmacy Technician at Kroger Pharmacy. There is more that I will add as I work on and update this blog furhter!*
+*Let me tell you a bit about myself. I am 20 years old, I don't have a favourite food, but if I had to choose, I would say steak. Before Bootcamp I worked as a Pharmacy Technician at Kroger Pharmacy. There is more that I will add as I work on and update this blog furhter!*
 
 
 
 
-<!--Grrrrrrrrr!!!!!!!! These stupid emojis have just stopped working completely after the problem and reset of the codeanywhere container!!!-->
+<!--Grrrrrrrrr!!!!!!!! These emojis have just stopped working completely after the problem and reset of the codeanywhere container!!!-->
 
 <br/>
 <details>
@@ -74,7 +74,7 @@ I didn't really put a lot of thought into pseudocoding before. But I recently re
 <summary>  <strong>Week 4</strong></summary>
 
 ## Post 1
-So, this week has brought some challenges. My brother got injured, my internet got cut off, and I feel like I'm really disorganized in my life, but I haven't had time to fix everything. I know it's not healhty, but I'll probably spend one night this week just reorganizing everything and making it all consistant. I feel more ready to work when there is no mess, so it can only really be a good thing.
+So, this week has brought some challenges. My brother got injured, my internet got cut off, and I feel like I'm really getting tripped up at every turn. Luckily, II've been able to get back on track fairly quickly!
 
 ### Q1
 
